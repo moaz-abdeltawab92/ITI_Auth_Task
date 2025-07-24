@@ -1,37 +1,44 @@
 # Auth Task 2
 
-<<<<<<< HEAD
-## Ui Screens
-
-## Login UI
-
-![Login Screen](assets/login.png)
-
-## Signup UI
-
-![Signup Screen](assets/signup.png)
-
-## OTP UI
-
-![Signup Screen](assets/otp.png)
-
-
-=======
 A modern Flutter authentication app with a unified, clean UI for Login, Signup, OTP, Home, Profile, Settings, and Info screens.
 
----
+##  UI Screens
 
-## 📱 Screenshots
-
-| Login                 | Signup                 | OTP                 | Home                 | Profile                 | Settings                | Info                 |
-| --------------------- | ---------------------- | ------------------- | -------------------- | ----------------------- | ----------------------- | -------------------- |
-| ![](assets/login.png) | ![](assets/signup.png) | ![](assets/otp.png) | ![](assets/home.png) | ![](assets/profile.png) | ![](assets/setting.png) | ![](assets/info.png) |
+### 🔸 Login
+<img src="assets/login.png" width="300"/>
 
 ---
+
+### 🔸 Signup
+<img src="assets/signup.png" width="300"/>
+
+---
+
+### 🔸 OTP
+<img src="assets/otp.png" width="300"/>
+
+---
+
+### 🔸 Home
+<img src="assets/home.png" width="300"/>
+
+---
+
+### 🔸 Profile
+<img src="assets/profile.png" width="300"/>
+
+---
+
+### 🔸 Settings
+<img src="assets/setting.png" width="300"/>
+
+---
+
+### 🔸 Info
+<img src="assets/info.png" width="300"/>
 
 ## 📂 Folder Structure
 
-```
 lib/
   main.dart                // Entry point
   constants/               // App colors & strings
@@ -61,22 +68,7 @@ assets/                    // Images & assets (screenshots here)
   settings.png
   info.png
   aa.jpg
-```
 
----
-
-## 🚀 Getting Started
-
-1. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-2. **Run the app:**
-   ```bash
-   flutter run
-   ```
-
----
 
 ## 🛠️ Features
 
