@@ -1,4 +1,4 @@
-# Auth Task 2
+#  ITI Task  
 
 A modern Flutter authentication app with a unified, clean UI for Login, Signup, OTP, Home, Profile, Settings, and Info screens.
 
@@ -96,3 +96,19 @@ assets/                      # Images & assets (screenshots here)
 - Consistent color theme
 - Custom reusable widgets
 - Smooth user experience
+
+
+## 🚀 Getting Started
+
+flutter pub get
+flutter run
+Make sure you have Flutter SDK installed and connected to a device/emulator.
+
+##  Tech Stack
+Flutter
+
+Dart
+
+Custom Widgets
+
+Clean UI principles
